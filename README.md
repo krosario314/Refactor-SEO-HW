@@ -23,4 +23,5 @@ THEN I find a concise, descriptive title
 ```
 ## Resources
 * [HTML Elements - w3schools](https://www.w3schools.com/html/html_elements.asp)
-* [GitHub Pages](https://pages.github.com/)
+* [GitHub](https://github.com/krosario314/Refactor-SEO-HW)
+* [Deployed Link](https://krosario314.github.io/Refactor-SEO-HW/)
